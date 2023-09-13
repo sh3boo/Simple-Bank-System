@@ -1,0 +1,6 @@
+Account Type: BankAcounts
+Account ID: 0
+Balance: 5000
+Account Type: SavingBankAccount
+Account ID: 0
+Balance: 5000

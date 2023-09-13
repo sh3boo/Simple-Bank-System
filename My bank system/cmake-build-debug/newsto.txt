@@ -1,0 +1,6 @@
+Phone: 01158868614
+Address: elsaf
+BankAcounts
+Account ID: 0
+Balance: 9500
+Balance: 9000
