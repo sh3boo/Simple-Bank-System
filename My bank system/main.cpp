@@ -18,7 +18,7 @@ int main() {
 
         if (choice == 5) {
             cout << "Exiting the program.\n";
-            break;  // Exit the loop
+            break; 
         } else if (choice>5)
             cout <<"please Enter a valid number";
 
