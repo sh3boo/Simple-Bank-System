@@ -42,27 +42,18 @@ int main() {
                 break;
             case 2:
                 ba.printinfo();
-                // Add code for listing clients and accounts
                 break;
             case 3:
                 ba.withdraw();
-
-                // Add code for withdrawing money
                 break;
             case 4:
                 ba.deposit();
-                // Add code for depositing money
                 break;
         }
     }
 
     return 0;
 
-//    BankApplication a;
-//    SavingBankAccount ff(100,8);
-//    a.add_client("ahmed","0123456","elsaf");
-//    a.add_account(ff);
-//    a.printinfo();
 
 
 }
